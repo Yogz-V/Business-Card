@@ -1,0 +1,29 @@
+body{
+    margin:20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.wrap{
+  
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    margin : 100px auto;
+   
+    width:600px;
+    border:1px solid #ddebf8;
+    border-bottom:8px solid lightcoral;
+    background-color: #ddebf8;
+
+
+}
+
+
+.img1{
+    width:250px;
+}
+.name{
+    font-size: 23px;
+    text-align:center;
+    color: #2b2839;
+}
